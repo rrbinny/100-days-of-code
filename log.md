@@ -22,3 +22,24 @@ This was quite a lot for me today if I have to be honest. Even though it was exp
 **Link to work:**
 https://github.com/rrbinny/rts
 https://github.com/rrbinny/reduxts
+
+### Day 3: June 22, 2021
+
+**Today's Progress**:
+Today I worked on this TypeScript + React Project Course I was doing by Stephen Grider.
+I completed the Redux with TypeScript mini-app.
+**Thoughts:**
+Redux with TypeScript is a bit weird. I think one of things that confused me especially was using custom Hooks to make sure to set a type on a specific hook to make sure that the state it accesses is the type of object we define in TS in an interface.
+**Link to work:**
+https://github.com/rrbinny/reduxts
+
+### Day 4: June 23, 2021
+
+**Today's Progress**:
+Today I worked on this TypeScript + React Project Course I was doing by Stephen Grider.
+I learnt about Webpack bundling and transpiling as well as started the process of introducing ESBuild to the full application.
+**Thoughts:**
+There was a lot to take in for this, I think I need some time to really read into ESBuild and Webpack and truly understand the concepts
+and methods used.
+**Link to work:**
+https://github.com/rrbinny/jbook
