@@ -43,3 +43,12 @@ There was a lot to take in for this, I think I need some time to really read int
 and methods used.
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 5: June 24, 2021
+
+**Today's Progress**:
+Continued on the Stephen Grider course. Using ESbuild, the application can now transpile and bundle CSS, NPM Modules and JS Code in general. I used caching so that the unpkg(copy of NPM registry) isn't called all the time.
+**Thoughts:**
+I got a lot done today and I feel I have a deep understanding of ESBuild.
+**Link to work:**
+https://github.com/rrbinny/jbook
