@@ -52,3 +52,13 @@ Continued on the Stephen Grider course. Using ESbuild, the application can now t
 I got a lot done today and I feel I have a deep understanding of ESBuild.
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 6: June 27, 2021 (missed two days because I had a lot of stuff going on)
+
+**Today's Progress**:
+Continued on the Stephen Grider course. I made some progress handling code execution in the browser.
+**Thoughts:**
+Working with iFrames to get our code running is a weird rabbit hole but I understand the flow that on how
+code will be transpiled and bundle in the browser.
+**Link to work:**
+https://github.com/rrbinny/jbook
