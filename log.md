@@ -62,3 +62,13 @@ Working with iFrames to get our code running is a weird rabbit hole but I unders
 code will be transpiled and bundle in the browser.
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 7: June 28, 2021
+
+**Today's Progress**:
+Continued on the Stephen Grider course. I created the displaying of the code editor
+**Thoughts:**
+Working with iFrames to get our code running is a weird rabbit hole but I understand the flow that on how
+code will be transpiled and bundle in the browser.
+**Link to work:**
+https://github.com/rrbinny/jbook
