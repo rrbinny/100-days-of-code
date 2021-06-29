@@ -66,9 +66,19 @@ https://github.com/rrbinny/jbook
 ### Day 7: June 28, 2021
 
 **Today's Progress**:
-Continued on the Stephen Grider course. I created the displaying of the code editor
+Continued on the Stephen Grider course. I finished handling code execution and created a code editor inside the react app.
 **Thoughts:**
-Working with iFrames to get our code running is a weird rabbit hole but I understand the flow that on how
-code will be transpiled and bundle in the browser.
+I made some great progress today in actually getting the code editor finished with autoformatting and syntax highlighting inside the application.
+Can't wait to go further!!
+**Link to work:**
+https://github.com/rrbinny/jbook
+
+### Day 8: June 29, 2021
+
+**Today's Progress**:
+Continued on the Stephen Grider course. I finished handling code execution and created a code editor inside the react app.
+**Thoughts:**
+I made some great progress today in actually getting the code editor finished with autoformatting and syntax highlighting inside the application.
+Can't wait to go further!!
 **Link to work:**
 https://github.com/rrbinny/jbook
