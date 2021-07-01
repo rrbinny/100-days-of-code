@@ -76,9 +76,20 @@ https://github.com/rrbinny/jbook
 ### Day 8: June 29, 2021
 
 **Today's Progress**:
-Continued on the Stephen Grider course. I finished handling code execution and created a code editor inside the react app.
+Continued on the Stephen Grider course. Made progress on adding resizable components within the application and refactoring the application.
 **Thoughts:**
-I made some great progress today in actually getting the code editor finished with autoformatting and syntax highlighting inside the application.
-Can't wait to go further!!
+Using the react-resizable package to do this is a simple to understand but to work in the application it is a bit weird
+**Link to work:**
+https://github.com/rrbinny/jbook
+
+### Day 9: July 1st, 2021
+
+**Today's Progress**:
+Continued on the Stephen Grider course. I completed the resizing of components, adding error handling for the
+**Thoughts:**
+I didn't have too many issues working with the md-editor package. It made things easier, I guess the main focus was
+just on styling and making sure it was inline with the colours of the application. Other than that error handling
+was fine too in terms of async errors but with code bundling errors I found it weird how I had to move the bundling error
+message in front of the preview window.
 **Link to work:**
 https://github.com/rrbinny/jbook
