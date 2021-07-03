@@ -104,3 +104,12 @@ specific code cell. I started using Immer to make the cell logic inside the cell
 Using redux with TS was pretty straightforward because I had done the previous redux-ts mini project prior in the course. I was surprised by how Immer simplifies, the updating state process all that code to just update one property in the state just changed to one line!
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 11: July 3rd, 2021
+
+**Today's Progress**:
+Continued on the JBook Application. Defined the actions for the cellsReducer and started connecting React to Redux (by this I mean creating the actual code cells).
+**Thoughts:**
+Nothing too much to say honestly, had to fix some issues here there when defining actions in particular with the produce function with immer but it was fine.
+**Link to work:**
+https://github.com/rrbinny/jbook
