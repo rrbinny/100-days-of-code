@@ -113,3 +113,12 @@ Continued on the JBook Application. Defined the actions for the cellsReducer and
 Nothing too much to say honestly, had to fix some issues here there when defining actions in particular with the produce function with immer but it was fine.
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 12: July 5th, 2021
+
+**Today's Progress**:
+Continued on the JBook Application. Continued on creating the actual code cells, with the action bars to move components, delete them etc.
+**Thoughts:**
+Nothing too much tbh for this instance.
+**Link to work:**
+https://github.com/rrbinny/jbook
