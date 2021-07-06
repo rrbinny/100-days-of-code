@@ -122,3 +122,12 @@ Continued on the JBook Application. Continued on creating the actual code cells,
 Nothing too much tbh for this instance.
 **Link to work:**
 https://github.com/rrbinny/jbook
+
+### Day 13: July 6th, 2021
+
+**Today's Progress**:
+Continued on the JBook Application. Completed what I was doing previously in terms of the actual code cells, action bars etc. I connected the bundler to the redux side of the application. THe bundler renders immediately on an initial adding of a code cell and subsequently when the user types codes and doesn't type anything for 1 second.
+**Thoughts:**
+Trying to get the bundler to work with Redux was not too hard honestly. I just had to transition my thinking of local state for bundling, to using the redux store instead and doing the bundling process through redux.
+**Link to work:**
+https://github.com/rrbinny/jbook
