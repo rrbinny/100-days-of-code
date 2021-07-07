@@ -135,8 +135,10 @@ https://github.com/rrbinny/jbook
 ### Day 14: July 7th, 2021
 
 **Today's Progress**:
-Continued on the JBook Application. Completed what I was doing previously in terms of the actual code cells, action bars etc. I connected the bundler to the redux side of the application. THe bundler renders immediately on an initial adding of a code cell and subsequently when the user types codes and doesn't type anything for 1 second.
+Continued on the JBook Application. The application now has a cumulative code execution feature meaning that if variables are defined in other code cells, the subsequent ones have access to those variables defined. Also a show function to just quickly display JSX code an object etc. Lastly I started
+making progress on allowing user to store the code cells/text cells they made in the react app to their local hard drive. First steps I made is setting up Lerna, a tool which manages JS projects with multiple packages.
 **Thoughts:**
-Trying to get the bundler to work with Redux was not too hard honestly. I just had to transition my thinking of local state for bundling, to using the redux store instead and doing the bundling process through redux.
+The cumulative code execution feature was not too hard to do honestly. I think the storing to the harddrive bit is a bit confusing right now but I'm sure I'll be able to wrap my head around it.
 **Link to work:**
 https://github.com/rrbinny/jbook
+https://github.com/rrbinny/jbook-react-app
