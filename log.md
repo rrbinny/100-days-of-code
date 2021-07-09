@@ -153,3 +153,14 @@ npm run start again and then tried to run the command again and it worked!
 **Link to work:**
 https://github.com/rrbinny/jbook
 https://github.com/rrbinny/jbook-react-app
+
+### Day 16: July 9th, 2021
+
+**Today's Progress**:
+Continued on the JBook Application. I finished adding the local-api to the project
+**Thoughts:**
+I took longer with the local-api as I found there was an error when trying to create a file for the user to make code cells in. Apparently I was missing a package? I looked on Stack Overflow and it said that specific package was outdated from an older version of node. I deleted the dist folder and ran
+npm run start again and then tried to run the command again and it worked!
+**Link to work:**
+https://github.com/rrbinny/jbook
+https://github.com/rrbinny/jbook-react-app
